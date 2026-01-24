@@ -7,4 +7,5 @@ dill
 pymongo
 mysql-connector-python
 xgboost
+catboost
 # -e .
