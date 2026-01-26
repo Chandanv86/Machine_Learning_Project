@@ -8,4 +8,5 @@ pymongo
 mysql-connector-python
 xgboost
 catboost
+flask
 # -e .
