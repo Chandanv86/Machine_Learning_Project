@@ -9,4 +9,5 @@ mysql-connector-python
 xgboost
 catboost
 flask
+gunicorn
 # -e .
